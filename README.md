@@ -55,5 +55,5 @@ A simple, personal (very minimalised and not complicated version) of your own Se
     sudo python3 main.py
     ```
 
-Feel free to use this project for your own needs
+Feel free to use this project for your own needs  
 Developed with a healthy dose of paranoia by matthewtop
